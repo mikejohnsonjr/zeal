@@ -1,0 +1,8 @@
+find . -type f -print0 | xargs -0 sed -i 's/zeal/zeal/g'
+find . -type f -print0 | xargs -0 sed -i 's/Litecoin/Zeal/g'
+find . -type f -print0 | xargs -0 sed -i 's/LiteCoin/Zeal/g'
+find . -type f -print0 | xargs -0 sed -i 's/LITECOIN/ZEAL/g'
+find . -type f -print0 | xargs -0 sed -i 's/LTC/ZEAL/g'
+
+find . -type f -print0 | xargs -0 sed -i 's/9333/2333/g'
+find . -type f -print0 | xargs -0 sed -i 's/9332/2332/g'

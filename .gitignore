@@ -1,0 +1,34 @@
+src/*.exe
+src/zeal
+src/zeald
+src/test_zeal
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.zeal
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+zeal-qt
+Zeal-Qt.app
+
+# Unit-tests
+Makefile.test
+zeal-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
