@@ -1,10 +1,7 @@
 Zeal integration/staging tree
 ================================
 
-http://www.zeal.org
-
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Zeal Developers
+http://www.zealchain.com
 
 What is Zeal?
 ----------------
