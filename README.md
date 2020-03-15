@@ -8,4 +8,4 @@ What is Zeal?
 
 Zeal is a cryptocurrency for marginalized though ambitious communities.
 
-How to build on ubuntu: install the dependencies here: https://pastebin.com/dT5V4fmc, `cd` into the `src` directory, and do `make -f makefile.unix`
+How to build on ubuntu: install the dependencies here: https://pastebin.com/dT5V4fmc (if you are on Linux Mint, install these dependencies instead: https://pastebin.com/v70DknXP), `cd` into the `src` directory, and do `make -f makefile.unix`
