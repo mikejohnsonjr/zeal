@@ -1,7 +1,7 @@
 Zeal cryptocurrency
 ================================
 
-http://www.zealchain.com
+https://www.zealchain.com
 
 What is Zeal?
 ----------------
